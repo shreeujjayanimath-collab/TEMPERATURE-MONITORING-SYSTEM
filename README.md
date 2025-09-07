@@ -18,3 +18,5 @@ LCD OR SERIAL MONITOR.
 Tool used Arduino IDE
 
 Output
+
+![Image](https://github.com/user-attachments/assets/9716e192-2c30-41c2-a7d1-f4e1b24620a1)
